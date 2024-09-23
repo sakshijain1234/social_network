@@ -1,0 +1,6 @@
+# requirements.txt
+Django>=4.0
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary  # PostgreSQL driver
+redis            # For using Redis as cache
