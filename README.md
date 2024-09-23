@@ -104,7 +104,8 @@
 
 </ul>
 
-<p>See the <code>social_network.postman_collection.json</code> file in the code area.</p>
+<p>See the: <a href="https://elements.getpostman.com/redirect?entityId=34643816-fd3203ac-cad5-4bc3-8cb6-5896bdd18d54&entityType=collection">Postman Collection Link</a>
+</p>
 
 
 
